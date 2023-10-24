@@ -1,0 +1,11 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"> <!-- Définir la forme du bouton comme ovale -->
+
+    <solid android:color="@color/white" /> <!-- Couleur de fond du bouton (dans cet exemple, orange) -->
+
+    <stroke
+        android:width="2dp"
+        android:color="#78d9ff"/>
+
+
+</shape>
